@@ -1,5 +1,5 @@
 class date {
 public static void main(String[]arg){
-   System.out.print("h");
+   System.out.print("hi");
 }
 }
